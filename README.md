@@ -1,2 +1,2 @@
-# Platzi_proyects
+# Platzi_projects
 Personal projects done in Platzi courses
